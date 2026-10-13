@@ -62,12 +62,31 @@ Estimates from the Sonoma Wildfire Hazard Index and US Census show that 15,437 S
 :::
 
 ## Fire Impact
-Higher poverty and fire frequency are connected. @hino found a correlation between high poverty and wildfire frequency ([numref]`hino-map`).  @king found similar results with 6.7 million private forest treatable acres; four million acres are concentrated in High Poverty Census Tracts of California; that is, 60% of total private treatment needs are concentrated in areas where the poverty rate exceeds 20%—two times the national average. The same authors estimated 231,000 acres in need of treatment, with 71% located in high-poverty areas (poverty rate > 20%).
+Higher poverty and fire frequency are connected. @hino found a correlation between high poverty and wildfire frequency ({numref}`hino-map`).  @king found similar results with 6.7 million private forest treatable acres; four million acres are concentrated in High Poverty Census Tracts of California; that is, 60% of total private treatment needs are concentrated in areas where the poverty rate exceeds 20%—two times the national average. The same authors estimated 231,000 acres in need of treatment, with 71% located in high-poverty areas (poverty rate > 20%).
 
 :::{figure} hino.png
 :label: hino-map
 :height: 600px
-Fire experience by census tracts and corresponding median income by experience group
+Fire experience by census tracts and corresponding median income by experience group.
 :::
 
 According to the feasibility study, treating 246,365 acres within Sonoma County is feasible. Below, we estimate the number of people needed to conduct forest treatments at this scale over time.
+
+## Treatment
+There are a total of 513,000 acres of forestland in Sonoma County. Commercial harvest is largely focused in the northwest portion of the county in redwood-dominated stands and conducted by larger-scale forestland owners. A current estimate of acres treated/year is approximately 3,000 across private forestland ownerships. This number does not include public, utilities, prescribed fire, road right of way, California Office of Emergency Services, or county-based vegetation management. Therefore, it is a number we could assume, on average, of acres treated/year in a business-as-usual scenario.
+
+The North Coast Resource Partnership created a map of feasibly treated acres (green) based on slope, road access, riparian, and wilderness area protection ({numref}`fease-map`).
+
+:::{figure} fease.png
+:label: fease-map
+:height: 600px
+Treatment feasibility of the North Coast region shown in green (@tukman). 
+:::
+
+Zooming into Sonoma County shows the 'feasible to manage' areas identified in green ({numref}`sonoma-zoom`). This covers an area of nearly 212,000 acres, with the total feasible treatable acres from the project’s data slightly higher at just over 246,000. This acreage is scattered across small private forestry landholdings (approximately 93% on parcels <100 acres or close to 14,000 parcels)—too large an area and number of landowners for feasible forest health treatments due to the cost-prohibitive nature of permitting work on smaller ownerships land.
+
+:::{figure} sonoma-fease.png
+:label: sonoma-zoom
+:height: 600px
+Treatment feasibility of Sonoma County (@tukman). 
+:::
