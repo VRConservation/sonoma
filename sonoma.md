@@ -11,7 +11,7 @@ authors:
     email: vance@3point.xyz
 keywords: Wood, Mill, Community
 abstract: |
-  Sonoma County contains approximately 513,000 acres of forest land. Still, under current practices only around 3,000 acres are treated each year, resulting in a large treatment gap of nearly when compared to the approximately 246,000 acres feasible for treatment. These treatable acres are spread across about 14,000 private parcels—about 93% of which are less than 100 acres—making them challenging to treat. However, connecting treatable acres to census tracts where the poverty rate is above 40% results in about 3,100 priority acres that are concentrated in the fire-prone northwest part of the county and in line with treatment acre goals. Establishing a wood recovery and utilization campus at a former sawmill site is also a major priority. Expected benefits of repurposing the site include 36 direct full-time-equivalent jobs in Phase 1, increasing to 107 by 2030, plus 69 to 175 indirect jobs in forestry, prescribed fire, and support services—for a total of 85 to 191 jobs when a wider sector-wide employment multiplier is applied.
+  Sonoma County contains approximately 513,000 acres of forest land. Under current practices, about 3,000 acres are treated each year, leaving a large treatment gap compared with the approximately 246,000 acres that are feasible to treat. These treatable acres are spread across 14,000 private parcels—about 93% of which are less than 100 acres—making large-scale treatments challenging. However, linking treatable acres to census tracts with poverty rates above 40% yields about 3,100 priority acres concentrated in the county's fire-prone northwest, in line with county forest treatment goals. Connecting treatments to a centralized wood products campus at Berry's Sawmill is critical to scaling treatments. Repurposing a former mill site is expected to create 36 direct full-time-equivalent jobs in Phase 1, increasing to 107 by 2030, plus 69 to 175 indirect jobs in forestry, prescribed fire, and support services—for a total of 85 to 191 jobs when a wider sector-wide employment multiplier is applied.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -167,3 +167,7 @@ The Sonoma County Wood Recovery & Utilization Project will benefit the county th
 - Cross-walking the feasible-to-treat acres with areas > 40% poverty mechanically gives an acreage of 3,100, in line with the initial treatment goal of 3,000 acres. Identified areas could help reduce wildfires and decrease risk in the most fire-prone and economically disadvantaged areas.
 - The total number of jobs created for Phase 1 of the project is 36, which will increase to 107 by 2030 (Phase 3).
 - The total number of indirect jobs created increases from 69 in Phase 1 to 175 in Phase 3. Calculating the total number of jobs created (total spending divided by total jobs created) yields a range of  85 (Phase 1) to 191 (Phase 3).
+
+## Resources
+- [Timbershed](https://www.timbershed.earth/)
+- [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org/)
