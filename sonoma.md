@@ -22,11 +22,11 @@ kernelspec:
 exports:
   - format: docx
     template: curvenote
-    output: article-name.docx
+    output: sonoma.docx
     article_type: Report
   - format: typst
     template: lapreprint-typst
-    output: article-name.pdf     
+    output: sonoma.pdf     
 ---
 
 # Background
@@ -50,7 +50,7 @@ Fire experience by census tracts and corresponding median income by experience g
 
 According to the feasibility study, treating 246,365 acres within Sonoma County is feasible. Below, we estimate how many people are needed to conduct forest treatments at this scale over time.
 
-## Socioeconomic factors
+# Socioeconomic factors
 California's economy is the 5th largest in the world (if it were a country), and people often don't mention it in the same sentence as poverty. However, pockets of the state have high poverty rates ({numref}`ces`). These are located in urban areas, the state's northern and southern ends, and the southern San Joaquin Valley.
 
 :::{figure} calenviro.png
@@ -67,7 +67,7 @@ In Sonoma County, most economically disadvantaged residents live in the highly d
 Poverty percentage in Sonoma County by census tract. Green (low), Yellow (medium), and Red (high). CalEnviroScreen 4.0.
 :::
 
-## Treatment
+# Treatment
 Sonoma County has 513,000 acres of forestland. Commercial harvest is largely focused in the county's northwest, in redwood-dominated stands, and is conducted by larger-scale forestland owners. A current estimate of acres treated/year is approximately 3,000 across private forestland ownerships. This number excludes public, utilities, prescribed fire, road right-of-way, California Office of Emergency Services, and county-based vegetation management. Therefore, we can assume this number represents, on average, acres treated/year in a business-as-usual scenario.
 
 The North Coast Resource Partnership created a map of feasibly treated acres (green) based on slope, road access, riparian, and wilderness area protection ({numref}`fease-map`).
@@ -106,7 +106,7 @@ The BRIC project will complement and scale up the projects, capabilities, and sy
 Sites for the Sonoma County Hazardous Fuels ReductionGrant Program.
 :::
 
-## Jobs
+# Jobs
 Direct jobs are those anticipated to be involved in the logistics, transportation, and hauling, wood processing, manufacturing, and sales involved in managing the stream of woody material at a wood campus or aggregation yard. Indirect jobs include forestry professionals conducting forest treatments, Licensed Timber Operators and haulers, wood product businesses, and others.
 
 Direct positions are estimated at 36 full-time equivalents (FTEs) during Phase 1 ({numref}`ftes`). The same period is estimated to create 37 indirect jobs related to removing forest materials. However, the forestry sector's general multiplier is about 2.3 indirect jobs per direct job, meaning approximately 83 indirect jobs were created (@bivens). The positions are estimated to start at 3,000 acres treated/year, building to 5,000 in Phase 2 and 10,400 in Phase 3.
@@ -124,10 +124,10 @@ Direct positions are estimated at 36 full-time equivalents (FTEs) during Phase 1
 | **Total** | **36** | **76** | **107** |
 :::
 
-### Direct
+## Direct
 For Phase 1 staffing, we estimated 7 FTEs (director, site operator, part-time admin assistant) to manage and run the feedstock aggregation unit. This is based on one wood recovery and utilization campus closest to potential wood resources currently proposed as Berry's Sawmill. According to project data, the mill is within a 60-minute drive of most current timber harvest plans and the greatest concentration of forest biomass. The location was selected because of its historic use as a sawmill and its proximity to potential material, which would reduce transportation and hauling distances. By 2030, adding one to two additional sort yards would create 15 FTEs to staff the units.
 
-### Indirect
+## Indirect
 The following table assumes the number of indirect jobs supported through the pilot ({numref}`indirect-table`). For Phase 1, one could assume 2,000 acres/yr are treated in the feasible treatment areas identified by the North Coast Resource Partnership analysis. Although treatments may vary, we will assume mastication or a feller-buncher. A masticator will treat approximately 0.57 acres/hr (@halbrook). Dividing 2,000/0.57 gives 3,508.8 hours or approximately 1.7 FTEs (3,508.8/2080).
 
 :::{table} Additional indirect FTE positions created by Phase for the Sonoma Feedstock Pilot.
@@ -158,7 +158,7 @@ The analysis also included structural hardening in the indirect jobs created. In
 
 To increase the acres of in-forest treatments, workforce development programs such as the partnership between  Resilience Works and North Bay Jobs with Justice, the Forestry and Fire Recruitment Program, Tribal EcoRestoration Alliance, local arborists, and other programs offered within the county and State (Humboldt State, UC Berkeley, UC Davis, and Chico State) will prove essential in attracting and training a workforce capable of meeting the increased forest treatment needs. 
 
-## Take-Aways
+# Take-Aways
 The Sonoma County Wood Recovery & Utilization Project will benefit the county through direct wildfire mitigation, wood products, job creation, and new businesses created or supported. Key findings included the following: 
 
 - The treatment gap between treatable and treated acres in Sonoma County is nearly 100% (99.7%).
@@ -166,6 +166,6 @@ The Sonoma County Wood Recovery & Utilization Project will benefit the county th
 - The total number of jobs created for Phase 1 of the project is 36, which will increase to 107 by 2030 (Phase 3).
 - The total number of indirect jobs created increases from 69 in Phase 1 to 175 in Phase 3. Calculating the total number of jobs created (total spending divided by total jobs created) yields a range of  85 (Phase 1) to 191 (Phase 3).
 
-## Resources
+# Resources
 - [Timbershed](https://www.timbershed.earth/)
 - [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org/)
